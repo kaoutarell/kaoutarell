@@ -1,10 +1,11 @@
-# Hi 👋, I'm Kaoutar
+# Hi 🦋, I'm Kaoutar
 
-💻 Software Engineering Student | ☁️ Azure Certified | 📊 Aspiring Data & Cloud Engineering  
+💻 Final-Year Software Engineering Student | ☁️ Microsoft Azure Certified | 📊 Aspiring Cloud & Data Engineer  
 
-- 🔭 I’m currently working on: **ScribePilot - Capstone**  
-- 🌱 I’m learning: **Quantum Computing & Advanced Networking**  
-- ⚡ Fun fact: I love combining **UI/UX design** with **backend engineering** & **Leetcoding** challenges.  
+🔭 Currently building: **ScribePilot (Capstone Project)** – applying cloud and AI principles to real-world challenges.  
+🌱 Expanding skills in: **Quantum Computing** and **Advanced Networking**, with a focus on future-ready tech.  
+⚡ Passionate about bridging **UI/UX design** with **robust backend engineering**, and sharpening problem-solving through **Leetcode challenges**.  
+
 
 ### 🔧 Tech Stack
 
@@ -31,12 +32,3 @@ These are the technologies I’ve gained **hands-on experience** with through pr
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch&logoColor=white)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaoutarell&layout=compact&theme=radical)
-
-
----
-<div align="center">
-✨ Welcome to my profile! ✨
-</div>
