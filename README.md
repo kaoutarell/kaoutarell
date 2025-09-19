@@ -32,3 +32,6 @@ These are the technologies I’ve gained **hands-on experience** with through pr
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch&logoColor=white)
+
+### 📊 GitHub Stats
+![My stats](https://github-readme-stats.vercel.app/api?username=kaoutarell&show_icons=true&theme=radical)
