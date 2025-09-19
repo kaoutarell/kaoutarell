@@ -32,5 +32,3 @@ These are the technologies I’ve gained **hands-on experience** with through pr
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch&logoColor=white)
-
-[![Kaoutar’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaoutarell&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
