@@ -38,7 +38,6 @@ Technologies I’ve worked with across professional projects, academic research,
 
 #### Security & Verification
 - 🏗️ Secure SDLC · Threat Modeling · Policy-Driven AI
-- 📎 Formal Methods (learning: Alloy, Dafny, TLA+)
 - 🔍 Vulnerability scanning · Secrets & PII detection
 
 ### 🎖️ Certifications
