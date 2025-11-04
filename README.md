@@ -12,7 +12,7 @@
 
 ### 🔧 Tech Stack
 
-These are the technologies I’ve gained **hands-on experience** with through projects, internships, and coursework:
+Technologies I’ve worked with across professional projects, academic research, and internships:
 
 #### Programming & Scripting
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
