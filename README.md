@@ -36,9 +36,9 @@ These are the technologies I’ve gained **hands-on experience** with through pr
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch&logoColor=white)
 
 #### Security & Verification
-🏗️ Secure SDLC · Threat Modeling · Policy-Driven AI
-📎 Formal Methods (learning: Alloy, Dafny, TLA+)
-🔍 Vulnerability scanning · Secrets & PII detection
+- 🏗️ Secure SDLC · Threat Modeling · Policy-Driven AI
+- 📎 Formal Methods (learning: Alloy, Dafny, TLA+)
+- 🔍 Vulnerability scanning · Secrets & PII detection
 
 ### 🎖️ Certifications
 | Certification                               | Status         |
@@ -47,8 +47,8 @@ These are the technologies I’ve gained **hands-on experience** with through pr
 | 🔐 SC-900 — Security, Compliance & Identity | ✅              |
 | 🤖 AI-900 — Azure AI Fundamentals           | 🎯 In Progress |
 
-![Kaoutar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-![Kaoutar's Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&margin-w=20)
+![Kaoutar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaoutarell&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaoutarell&layout=compact&theme=tokyonight)
+![Kaoutar's Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaoutarell&theme=tokyo-night)
+![Trophies](https://github-profile-trophy.vercel.app/?username=kaoutarell&theme=tokyonight&row=1&margin-w=20)
 
