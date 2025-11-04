@@ -20,8 +20,7 @@
 ---
 
 ### 💜 Philosophy
-🌀 I build **scalable systems**, **intuitive UIs**, and  
-**secure cloud architectures** that empower people 🌀
+🌀 I build, learn, and evolve ; growing my wings a little more with every challenge 🌀
 
 
 ### 🦋 Tech Stack
