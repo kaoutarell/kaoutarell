@@ -1,7 +1,7 @@
 ## 🦋 About Me
 
 💻 **Final-Year Software Engineering Student** @ Concordia University  
-☁️ **Microsoft Certified:** AZ-900 · SC-900 · *AI-900 in progress*  
+☁️ **Microsoft Certified:** [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/KaoutarELAZZAB-6161/DB23816CA2E7DA95?sharingId=CC7B5EA860C140D9) · [SC-900](https://learn.microsoft.com/api/credentials/share/en-us/KaoutarELAZZAB-6161/B1DF8E6C53291B96?sharingId=CC7B5EA860C140D9) · *AI-900 in progress*  
 🛡️ **Aspiring Cloud Security & Software Reliability Engineer**
 
 ---
