@@ -60,6 +60,6 @@ These are the technologies I’ve gained **hands-on experience** with through pr
 
 ### 📆 Overview
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaoutarell&theme=tokyonight)
-![Monthly Contributions](https://github-contributions.vercel.app/api/v1/kaoutarell?format=months)
+![Monthly Activity Overview](https://github-contributions.vercel.app/api/v1/kaoutarell?format=long)
 ![Monthly Productivity Card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaoutarell&theme=tokyonight&utcOffset=1)
 
