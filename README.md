@@ -48,7 +48,13 @@ These are the technologies I’ve gained **hands-on experience** with through pr
 | 🤖 AI-900 — Azure AI Fundamentals           | 🎯 In Progress |
 
 ### 📊 Stats 
+
+#### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaoutarell&layout=compact&theme=tokyonight)
+
+#### Contributions
 ![Monthly Contributions](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaoutarell&theme=tokyonight&utcOffset=1)
+
+#### Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=kaoutarell&theme=tokyonight&row=1&margin-w=20)
 
