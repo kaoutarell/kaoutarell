@@ -1,14 +1,28 @@
-# Hi 🦋, I'm Kaoutar
+## 🦋 About Me
 
-💻 Final-Year Software Engineering Student @ Concordia University
-☁️ Microsoft Certified (AZ-900 · SC-900 · AI-900 in progress)
-🔐 Aspiring Cloud Security & Software Reliability Engineer 
+💻 **Final-Year Software Engineering Student** @ Concordia University  
+☁️ **Microsoft Certified:** AZ-900 · SC-900 · *AI-900 in progress*  
+🛡️ **Aspiring Cloud Security & Software Reliability Engineer**
 
-🤖 Currently building ScribePilot (Capstone) : an AI-powered secure coding assistant focused on privacy, policy-driven compliance, and developer experience.
+---
 
-🎯 Next mission : working in a Formal Methods & Software Engineering research group — focusing on mathematically-verified systems, secure architectures, and correctness-by-design.
+### 🌙 What I'm Building
+🧠 **ScribePilot (Capstone)** — AI-powered secure coding assistant  
+🔐 Focused on **privacy**, **policy-driven compliance**, and **developer safety**
 
-> 🌀 I love crafting scalable systems, intuitive UIs, and secure cloud architectures that empower people 🌀
+---
+
+### 🔮 Research & Focus
+📚 **Formal Methods & Software Engineering** research  
+🧩 **Mathematically-verified systems** · **Secure architectures**  
+✔️ **Correctness-by-design** & trustworthy software foundations
+
+---
+
+### 💜 Philosophy
+🌀 I build **scalable systems**, **intuitive UIs**, and  
+**secure cloud architectures** that empower people 🌀
+
 
 ### 🦋 Tech Stack
 
