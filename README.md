@@ -47,8 +47,8 @@ These are the technologies I’ve gained **hands-on experience** with through pr
 | 🔐 SC-900 — Security, Compliance & Identity | ✅              |
 | 🤖 AI-900 — Azure AI Fundamentals           | 🎯 In Progress |
 
-![Kaoutar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaoutarell&show_icons=true&theme=tokyonight)
+### 📊 Stats 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaoutarell&layout=compact&theme=tokyonight)
-![Kaoutar's Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaoutarell&theme=tokyo-night)
+![Monthly Contributions](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaoutarell&theme=tokyonight&utcOffset=1)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=kaoutarell&theme=tokyonight&row=1&margin-w=20)
 
