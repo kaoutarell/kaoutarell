@@ -23,7 +23,7 @@
 🌀 I build, learn, and evolve ; growing my wings a little more with every challenge 🌀
 
 
-### 🦋 Tech Stack
+## 🦋 Tech Stack
 
 Technologies I’ve worked with across professional projects, academic research, and internships:
 
@@ -34,15 +34,14 @@ Technologies I’ve worked with across professional projects, academic research,
 | **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/Azure-5A2D81?logo=microsoftazure&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/Docker-4B0082?logo=docker&logoColor=white&style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-6A0DAD?logo=kubernetes&logoColor=white&style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-8E44AD?logo=githubactions&logoColor=white&style=flat-square) |
 | **Databases & Search** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4C2A85?logo=postgresql&logoColor=white&style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-6E2F9C?logo=mysql&logoColor=white&style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-8A2BE2?logo=mongodb&logoColor=white&style=flat-square) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-5C2485?logo=elasticsearch&logoColor=white&style=flat-square) |
 
-### 🎖️ Certifications
+## 🎖️ Certifications
 | Certification                               | Status         |
 | ------------------------------------------- | -------------- |
 | ☁️ AZ-900 — Microsoft Azure Fundamentals    | ✅              |
 | 🔐 SC-900 — Security, Compliance & Identity | ✅              |
 | 🤖 AI-900 — Azure AI Fundamentals           | 🎯 In Progress |
 
-### 📊 Stats 
-
+## 📊 Stats 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaoutarell&layout=compact&theme=tokyonight)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaoutarell&theme=tokyonight)
