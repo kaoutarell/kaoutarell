@@ -1,11 +1,13 @@
 # Hi 🦋, I'm Kaoutar
 
-💻 Final-Year Software Engineering Student | ☁️ Microsoft Azure Certified | 📊 Aspiring Cloud & Data Engineer  
+💻 Final-Year Software Engineering Student @ Concordia University
+☁️ Microsoft Certified (AZ-900 · SC-900 · AI-900 in progress)
+🔐 Aspiring Cloud Security & Software Reliability Engineer 
 
-🔭 Currently building: **ScribePilot (Capstone Project)** – applying cloud and AI principles to real-world challenges.  
-🌱 Expanding skills in: **Quantum Computing** and **Advanced Networking**, with a focus on future-ready tech.  
-⚡ Passionate about bridging **UI/UX design** with **robust backend engineering**, and sharpening problem-solving through **Leetcode challenges**.  
+🤖 Currently building ScribePilot (Capstone) : an AI-powered secure coding assistant focused on privacy, policy-driven compliance, and developer experience.
+🎯 Next mission : working in a Formal Methods & Software Engineering research group — focusing on mathematically-verified systems, secure architectures, and correctness-by-design.
 
+> 🌀 I love crafting scalable systems, intuitive UIs, and secure cloud architectures that empower people 🌀
 
 ### 🔧 Tech Stack
 
@@ -32,3 +34,21 @@ These are the technologies I’ve gained **hands-on experience** with through pr
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch&logoColor=white)
+
+#### Security & Verification
+🏗️ Secure SDLC · Threat Modeling · Policy-Driven AI
+📎 Formal Methods (learning: Alloy, Dafny, TLA+)
+🔍 Vulnerability scanning · Secrets & PII detection
+
+### 🎖️ Certifications
+| Certification                               | Status         |
+| ------------------------------------------- | -------------- |
+| ☁️ AZ-900 — Microsoft Azure Fundamentals    | ✅              |
+| 🔐 SC-900 — Security, Compliance & Identity | ✅              |
+| 🤖 AI-900 — Azure AI Fundamentals           | 🎯 In Progress |
+
+![Kaoutar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Kaoutar's Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&margin-w=20)
+
