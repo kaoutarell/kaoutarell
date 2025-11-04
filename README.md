@@ -20,7 +20,7 @@
 ---
 
 ### 🌀 Minsdset 
-🌀 I build, learn, and evolve ; growing my wings a little more with every challenge 🌀
+I build, learn, and evolve ; growing my wings a little more with every challenge 🪽
 
 
 ## 🦋 Tech Stack
