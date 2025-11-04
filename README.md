@@ -19,7 +19,7 @@
 
 ---
 
-### 💜 Philosophy
+### 🌀 Minsdset 
 🌀 I build, learn, and evolve ; growing my wings a little more with every challenge 🌀
 
 
