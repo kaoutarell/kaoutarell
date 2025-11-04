@@ -5,6 +5,7 @@
 🔐 Aspiring Cloud Security & Software Reliability Engineer 
 
 🤖 Currently building ScribePilot (Capstone) : an AI-powered secure coding assistant focused on privacy, policy-driven compliance, and developer experience.
+
 🎯 Next mission : working in a Formal Methods & Software Engineering research group — focusing on mathematically-verified systems, secure architectures, and correctness-by-design.
 
 > 🌀 I love crafting scalable systems, intuitive UIs, and secure cloud architectures that empower people 🌀
