@@ -58,3 +58,8 @@ These are the technologies I’ve gained **hands-on experience** with through pr
 #### Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=kaoutarell&theme=tokyonight&row=1&margin-w=20)
 
+### 📆 Overview
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaoutarell&theme=tokyonight)
+![Monthly Contributions](https://github-contributions.vercel.app/api/v1/kaoutarell?format=months)
+![Monthly Productivity Card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaoutarell&theme=tokyonight&utcOffset=1)
+
