@@ -14,7 +14,9 @@
 
 ### 🔮 Focus
 🛡️ Cybersecurity & Defensive Automation 
+
 🤖 Automating attack detection, mitigation, and response
+
 ☁️ Self-protecting cloud systems
 
 ---
