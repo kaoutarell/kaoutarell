@@ -12,10 +12,10 @@
 
 ---
 
-### 🔮 Research & Focus
-📚 **Formal Methods & Software Engineering** research  
-🧩 **Mathematically-verified systems** · **Secure architectures**  
-✔️ **Correctness-by-design** & trustworthy software foundations
+### 🔮 Focus
+🛡️ Cybersecurity & Defensive Automation 
+🤖 Automating attack detection, mitigation, and response
+☁️ Self-protecting cloud systems
 
 ---
 
