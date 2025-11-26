@@ -45,7 +45,6 @@ Technologies I’ve worked with across professional projects, academic research,
 
 ## 📊 Stats 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaoutarell&layout=compact&theme=tokyonight)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaoutarell&theme=tokyonight)
 ![Monthly Productivity Card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaoutarell&theme=tokyonight&utcOffset=1)
 
