@@ -37,11 +37,11 @@ Technologies I’ve worked with across professional projects, academic research,
 | **Databases & Search** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4C2A85?logo=postgresql&logoColor=white&style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-6E2F9C?logo=mysql&logoColor=white&style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-8A2BE2?logo=mongodb&logoColor=white&style=flat-square) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-5C2485?logo=elasticsearch&logoColor=white&style=flat-square) |
 
 ## 🎖️ Certifications
-| Certification                               | Status         |
-| ------------------------------------------- | -------------- |
-| ☁️ AZ-900 — Microsoft Azure Fundamentals    | ✅              |
-| 🔐 SC-900 — Security, Compliance & Identity | ✅              |
-| 🤖 AI-900 — Azure AI Fundamentals           | 🎯 In Progress |
+| Certification                               | Status         | Links    |
+| ------------------------------------------- | -------------- | -------------- |
+| ☁️ AZ-900 — Microsoft Azure Fundamentals    | ✅              | [Certification](https://learn.microsoft.com/api/credentials/share/en-us/KaoutarELAZZAB-6161/DB23816CA2E7DA95?sharingId=CC7B5EA860C140D9)
+| 🔐 SC-900 — Security, Compliance & Identity | ✅              | [Certification](https://learn.microsoft.com/api/credentials/share/en-us/KaoutarELAZZAB-6161/B1DF8E6C53291B96?sharingId=CC7B5EA860C140D9)
+| 🤖 AI-900 — Azure AI Fundamentals           | ✅ | [Certification](https://learn.microsoft.com/api/credentials/share/en-us/KaoutarELAZZAB-6161/25814988FD64FDAA?sharingId=CC7B5EA860C140D9)
 
 ## 📊 Stats 
 
