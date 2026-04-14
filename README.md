@@ -4,13 +4,11 @@
 ☁️ **Microsoft Certified:** [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/KaoutarELAZZAB-6161/DB23816CA2E7DA95?sharingId=CC7B5EA860C140D9) · [SC-900](https://learn.microsoft.com/api/credentials/share/en-us/KaoutarELAZZAB-6161/B1DF8E6C53291B96?sharingId=CC7B5EA860C140D9) · [AI-900](https://learn.microsoft.com/api/credentials/share/en-us/KaoutarELAZZAB-6161/25814988FD64FDAA?sharingId=CC7B5EA860C140D9)  
 🛡️ **Aspiring Cloud Security & Software Reliability**
 
----
 
 ### What I'm Building
 🧠 **ScribePilot (Capstone)** — AI-powered secure coding assistant  
 🔐 Focused on **privacy**, **policy-driven compliance**, and **developer safety**
 
----
 
 ### Focus
 🛡️ Cybersecurity & Defensive Automation 
@@ -19,11 +17,11 @@
 
 ☁️ Self-protecting cloud systems
 
----
 
 ### Minsdset 
 I build, learn, and evolve ; growing my wings a little more with every challenge 🪽
 
+---
 
 ## Tech Stack
 
@@ -36,6 +34,8 @@ Technologies I’ve worked with across professional projects, academic research,
 | **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/Azure-5A2D81?logo=microsoftazure&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/Docker-4B0082?logo=docker&logoColor=white&style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-6A0DAD?logo=kubernetes&logoColor=white&style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-8E44AD?logo=githubactions&logoColor=white&style=flat-square) |
 | **Databases & Search** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4C2A85?logo=postgresql&logoColor=white&style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-6E2F9C?logo=mysql&logoColor=white&style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-8A2BE2?logo=mongodb&logoColor=white&style=flat-square) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-5C2485?logo=elasticsearch&logoColor=white&style=flat-square) |
 
+---
+
 ## Certifications 🎖️
 
 | Name                               | Status         | Links    |
@@ -43,6 +43,8 @@ Technologies I’ve worked with across professional projects, academic research,
 | ☁️ AZ-900 — Microsoft Azure Fundamentals    | ✅              | [Certification](https://learn.microsoft.com/api/credentials/share/en-us/KaoutarELAZZAB-6161/DB23816CA2E7DA95?sharingId=CC7B5EA860C140D9)
 | 🔐 SC-900 — Security, Compliance & Identity | ✅              | [Certification](https://learn.microsoft.com/api/credentials/share/en-us/KaoutarELAZZAB-6161/B1DF8E6C53291B96?sharingId=CC7B5EA860C140D9)
 | 🤖 AI-900 — Azure AI Fundamentals           | ✅ | [Certification](https://learn.microsoft.com/api/credentials/share/en-us/KaoutarELAZZAB-6161/25814988FD64FDAA?sharingId=CC7B5EA860C140D9)
+
+---
 
 ## Stats 
 
