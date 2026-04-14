@@ -7,8 +7,7 @@
 
 ### What I'm Building
 
-🧠 **ScribePilot (Capstone)** — AI-powered secure coding assistant  
-🔐 Focused on **privacy**, **policy-driven compliance**, and **developer safety**
+🧠 **ScribePilot (Capstone)** — AI-powered secure coding assistant focused on **privacy**, **policy-driven compliance**, and **developer safety**
 
 
 ### Focus
