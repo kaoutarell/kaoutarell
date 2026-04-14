@@ -6,19 +6,18 @@
 
 
 ### What I'm Building
+
 🧠 **ScribePilot (Capstone)** — AI-powered secure coding assistant  
 🔐 Focused on **privacy**, **policy-driven compliance**, and **developer safety**
 
 
 ### Focus
-🛡️ Cybersecurity & Defensive Automation 
 
-🤖 Automating attack detection, mitigation, and response
-
-☁️ Self-protecting cloud systems
+🛡️ Cybersecurity & Defensive Automation · 🤖 Automating attack detection, mitigation, and response · ☁️ Self-protecting cloud systems
 
 
 ### Minsdset 
+
 I build, learn, and evolve ; growing my wings a little more with every challenge 🪽
 
 ---
